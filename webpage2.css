@@ -1,0 +1,141 @@
+
+
+header{
+    background-color: cornflowerblue;
+    color: white;
+    text-align: left;
+    display: flex;
+   
+ 
+}
+nav a:hover{
+    color: blue;
+}
+nav{
+    margin-top: 40px;
+      
+   
+}
+nav a{
+    font-weight: bold;
+     color: rgb(231, 219, 219);
+        text-decoration: none;
+      margin-left: 100px;
+    
+
+}
+.main{
+    background-color: cornflowerblue;
+     color: white;
+     display: flex;
+     justify-content: ce;
+       padding: 10px 10px;
+
+}
+h2{
+    font-size: 32px;
+    margin-left: 10px;
+    margin: 10px;
+   
+}
+.text{
+    margin-left:200px ;
+    
+}
+
+.mainimg{
+    max-width:500px;
+    border-radius: 20px;
+    margin-left: 300px;
+  
+   
+
+}
+.buttons{
+    margin-top: 20px;
+    display: flex;
+}
+button{
+    margin-right: 20px;
+     padding: 10px 30px;
+     max-width: 150px;
+     height: 40px;
+     margin-top: 30px;
+
+  border-radius: 5px;
+ 
+}
+.GetStarted{
+    background:white;
+    font-weight: bold;
+    color: cornflowerblue;
+}
+
+
+.Watch-intro{
+ background:cornflowerblue;
+    font-weight: bold;
+    color: white;
+    
+}
+
+.Second{
+    display: flex;
+    background-color: rgb(247, 244, 223);
+
+  
+
+}
+.secondcontent h2 {
+    margin: 10px 0;
+    padding-left: 30px;
+
+
+}
+.tabs {
+  margin: 10px 0;
+  padding-left: 30px;
+
+}
+.tabs button{
+    margin-right: 10px;
+    padding: 8px 12px;
+
+}
+.secondimg{
+    height: 300px;
+    max-width: 500px;
+    margin-top: 30px;
+     max-width:500px;
+    border-radius: 20px;
+    margin-left: 200px;
+  
+}
+
+.button1{
+    background-color: cornflowerblue;
+    color: white;
+}
+.secondpart{
+    display: flex;
+
+}
+.p{
+    font-size: 15px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.h3{
+   margin-left: 30px;
+    margin-top: 30px;
+}
+.h1{
+ 
+   padding-left: 25px;
+}
+.i {
+    padding-top: 40px;
+    margin-left: 10px;
+
+}

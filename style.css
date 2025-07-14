@@ -1,0 +1,38 @@
+.main{
+    background-image: url(./book.jpg);
+    width: 100%;
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h1{
+    
+   padding-left:100px ;
+   padding-top: 200px;
+    
+}
+.B{
+    display: flex;
+    gap: 20px;
+    font-size: 130%;
+    font-weight: bold;
+    
+    
+    
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+.i{
+    display: flex;
+    justify-content: space-between;
+padding: 20px;
+ font-size:140%;
+    
+}
+.A{
+    gap: 6px;
+ 
+}

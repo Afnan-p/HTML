@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #0066ff;
+  color: white;
+  padding: 20px;
+  text-align: left;
+}
+
+nav {
+  margin-top: 10px;
+}
+
+nav a {
+  margin: 0 15px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.hero {
+  background-color: #0066ff;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 40px 20px;
+  flex-wrap: wrap;
+}
+
+.hero-text {
+  max-width: 50%;
+}
+
+.hero img {
+  max-width: 300px;
+  border-radius: 10px;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+button {
+  margin-right: 10px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.get-started {
+  background-color: white;
+  color: #0066ff;
+  font-weight: bold;
+}
+
+.watch-intro {
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+}
+
+.section {
+  display: flex;
+  padding: 40px 20px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.section img {
+  max-width: 300px;
+  margin-right: 20px;
+}
+
+.section-content h2 {
+  margin: 10px 0;
+}
+
+.tabs {
+  margin: 10px 0;
+}
+
+.tabs button {
+  margin-right: 10px;
+  padding: 8px 12px;
+  background-color: #eee;
+  cursor: pointer;
+}

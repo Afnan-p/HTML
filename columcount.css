@@ -1,0 +1,41 @@
+.Top{
+    text-align: center;
+    background-color: rgb(180, 183, 186);
+    padding: 20px;
+}
+
+
+
+.headerprt{
+   display: flex;
+   justify-content: space-between;
+}
+.secondh1{
+    margin-top: 6px;
+}
+nav{
+    margin-top: 30px;
+    font-size: 20px;
+    display: flex;
+            gap: 20px;
+            margin-top: 20px;
+            margin-right: 30px;
+}
+.content{
+    column-count: 3;
+    gap: 10px;
+    padding-top: 50px;
+    column-rule: 2px solid lightblue;
+}
+.FasionCategory{
+    margin-top: -10px;
+}
+footer{
+     text-align: center;
+    background-color: rgb(180, 183, 186);
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin-top: 50px;
+    
+}
